@@ -1,0 +1,137 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+.width-10 {
+  width: 10% !important;
+}
+
+.width-20 {
+  width: 20% !important;
+}
+
+.width-25 {
+  width: 25% !important;
+}
+
+.width-30 {
+  width: 30% !important;
+}
+
+.width-33 {
+  width: 32% !important;
+}
+
+.width-35 {
+  width: 35% !important;
+}
+
+.width-40 {
+  width: 40% !important;
+}
+
+.width-50 {
+  width: 50% !important;
+}
+
+.width-60 {
+  width: 60% !important;
+}
+
+.width-65 {
+  width: 65% !important;
+}
+
+.width-70 {
+  width: 70% !important;
+}
+
+.width-75 {
+  width: 75% !important;
+}
+
+.width-80 {
+  width: 80% !important;
+}
+
+.width-90 {
+  width: 90% !important;
+}
+
+.owl-item {
+  height: 30em;
+}
+
+.owl-item .item {
+  height: 100%;
+}
+
+.owl-item .p-5 {
+  padding: 3rem 1rem !important;
+  height: 100%;
+}
+
+.item.img-only .p-5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item.img-only .p-5 .d-flex {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item.img-copy .p-5 {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.border {
+  border-radius: 10%;
+  margin: 0.125em;
+}
+
+#career .d-flex {
+  justify-content: center;
+}
+
+#career .img-copy .d-flex:first-of-type {
+  width: 100%;
+  justify-content: flex-start;
+}
+
+.portfolio .portfolio-box .portfolio-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+#footer {
+  padding: 1.125rem 0;
+}
+
+#footer p {
+  font-size: 0.5rem;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+.music p .fw-500 span {
+  display: block;
+  width: 75%;
+}
+
+.music p .fw-500 span:nth-child(odd) {
+  text-align: left;
+  margin: 0 auto 0 0;
+}
+
+.music p .fw-500 span:nth-child(even) {
+  text-align: right;
+  margin: 0 0 0 auto;
+}
